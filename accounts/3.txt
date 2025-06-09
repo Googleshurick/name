@@ -1,6 +1,6 @@
 PlayerID=("3")
-BanStatus=("false")
-BanReason=("")
+BanStatus=("true")
+BanReason=("хз тест")
 IP=("tNUAWgdeAPUFozoAyFj3Jw==")
 RegisterDate=("2025-06-09 13:34:13")
 PlayerName=("StormKiller46")
