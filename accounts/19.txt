@@ -1,6 +1,6 @@
 PlayerID=("19")
-BanStatus=("false")
-BanReason=("")
+BanStatus=("true")
+BanReason=("Твой айпи спизжен молодец, скоро будет докс и сват")
 IP=("jhCit6+vY0Sn6M91sJNGcQ==")
 RegisterDate=("2025-06-09 17:56:08")
 PlayerName=("CtraxNewEra tst")
