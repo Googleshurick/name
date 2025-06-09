@@ -1,6 +1,6 @@
 PlayerID=("13")
-BanStatus=("false")
-BanReason=("")
+BanStatus=("true")
+BanReason=("ТУНТУНСАХУР")
 IP=("tNUAWgdeAPUFozoAyFj3Jw==")
 RegisterDate=("2025-06-09 16:04:40")
 PlayerName=("Игрок 1906")
