@@ -1,6 +1,6 @@
 PlayerID=("90")
-BanStatus=("false")
-BanReason=("")
+BanStatus=("true")
+BanReason=("Читы")
 IP=("b5my0thqf9gg7WNqqYwYkA==")
 RegisterDate=("2025-06-10 08:43:24")
 PlayerName=("AngelAngel12")
