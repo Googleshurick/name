@@ -1,2 +1,2 @@
-InventorySkins=("M9Bayonet_GragonGlass")
-Gold=("9000,69")
+InventorySkins=("M9Bayonet_GragonGlass,deagle_aureate,KnifeBayonet_AmberKoi,M4A1_Impact")
+Gold=("300000,7")
