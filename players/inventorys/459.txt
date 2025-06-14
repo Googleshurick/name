@@ -1,2 +1,2 @@
 InventorySkins=("M9Bayonet_GragonGlass,Butterfly_Swamp,fang_devilblades,DaggerKnife_Harmony,KnifeBayonet_AmberKoi,Gloves_Hanami")
-Gold=("241400,7")
+Gold=("242400,7")
