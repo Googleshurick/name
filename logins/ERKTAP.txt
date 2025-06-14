@@ -1,2 +1,2 @@
 Password=("Z8nw8a26Zgi/ubCaXh0UYA==")
-PlayerId=("366")
+PlayerId=("DEV_01")
