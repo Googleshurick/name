@@ -1,2 +1,2 @@
 InventorySkins=("M9Bayonet_GragonGlass,Gloves_DragonGlass,deagle_aureate")
-Gold=("319000,7")
+Gold=("320000,7")
