@@ -1,0 +1,2 @@
+InventorySkins=("M9Bayonet_GragonGlass,AKR_DigitalBurst,AMW_New1,Gloves_DragonGlass")
+Gold=("300000,7")
