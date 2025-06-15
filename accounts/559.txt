@@ -1,6 +1,6 @@
 PlayerID=("559")
-BanStatus=("false")
-BanReason=("")
+BanStatus=("true")
+BanReason=("Критика в строну игры")
 IP=("iNpip/AUAM36qu1Sf4Yj8g==")
 RegisterDate=("2025-06-15 07:44:59")
 PlayerName=("стенд шеир топ")
