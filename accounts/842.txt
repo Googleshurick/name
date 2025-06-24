@@ -1,3 +1,5 @@
+BanStatus=("true")
+BanReason=("[ErkAC] Cheating! bancode: 1013")
 PlayerID=("842")
 BanStatus=("false")
 BanReason=("")
