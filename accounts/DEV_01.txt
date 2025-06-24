@@ -1,3 +1,5 @@
+BanStatus=("true")
+BanReason=("Cheating! code: 1012")
 PlayerID=("DEV_01")
 BanStatus=("false")
 BanReason=("")
