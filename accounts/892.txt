@@ -1,3 +1,5 @@
+BanStatus=("true")
+BanReason=("[ErkAC] Манипуляции с Патронами ! bancode: 1016")
 PlayerID=("892")
 BanStatus=("false")
 BanReason=("")
