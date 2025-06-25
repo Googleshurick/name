@@ -1,3 +1,5 @@
+BanStatus=("true")
+BanReason=("[ErkAC] Далбаеб с FireRate! bancode: 1015")
 PlayerID=("878")
 BanStatus=("false")
 BanReason=("")
