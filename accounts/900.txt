@@ -1,3 +1,5 @@
+BanStatus=("true")
+BanReason=("[ErkAC] Возможно ты используешь читы Если это ошибка сообщите админам ! bancode: 1017")
 PlayerID=("900")
 BanStatus=("false")
 BanReason=("")
