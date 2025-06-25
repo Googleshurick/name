@@ -1,6 +1,6 @@
 PlayerID=("926")
 BanStatus=("true")
-Banpricol=("")
+Banpricol=("Dalbaeb")
 IP=("x810shOBgxhxbEK3h9A9nQ==")
 RegisterDate=("2025-06-25 14:19:03")
 PlayerName=("FalconFalcon7")
