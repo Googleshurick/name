@@ -1,6 +1,6 @@
 PlayerID=("944")
-BanStatus=("false")
-Banpricol=("")
+BanStatus=("true")
+Banpricol=("TEST")
 IP=("1BK3aQ0k+BMt1m+S4FGAcg==")
 RegisterDate=("2025-06-26 08:40:18")
 PlayerName=("WolfNinja71")
