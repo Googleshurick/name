@@ -1,6 +1,6 @@
 PlayerID=("976")
-BanStatus=("false")
-Banpricol=("")
+BanStatus=("true")
+Banpricol=("#2")
 IP=("Sw9clsUQlo0GQWjUJQqlFg==")
 RegisterDate=("2025-06-27 07:01:05")
 PlayerName=("kirpich")
