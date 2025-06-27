@@ -1,3 +1,5 @@
+BanStatus=("true")
+Banpricol=("[ErkAC] Манипуляции с Патронами ! bancode: 1016")
 PlayerID=("1007")
 BanStatus=("false")
 Banpricol=("")
