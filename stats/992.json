@@ -6,9 +6,9 @@
     "headshots": 0,
     "headshotRate": 0.0,
     "accuracy": 0.0,
-    "matchesPlayed": 99,
-    "timePlayedHours": 10,
+    "matchesPlayed": 0,
+    "timePlayedHours": 0,
     "timePlayedMinutes": 0,
-    "currentMMR": 4000,
-    "currentRank": "TheLegend"
+    "currentMMR": 0,
+    "currentRank": "Unknown"
 }
