@@ -1,3 +1,5 @@
+BanStatus=("true")
+Banpricol=("[ErkAC] Далбаеб с FireRate! bancode: 1015")
 PlayerID=("1012")
 BanStatus=("false")
 Banpricol=("")
