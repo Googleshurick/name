@@ -1,5 +1,4 @@
-BanStatus=("true")
-Banpricol=("[ErkAC] Манипуляции с Патронами ! bancode: 1016")
+
 PlayerID=("976")
 BanStatus=("false")
 Banpricol=("#2")
