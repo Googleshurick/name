@@ -1,14 +1,14 @@
 {
-    "kills": 99,
-    "deaths": 0,
+    "kills": 9219,
+    "deaths": 299,
     "kd": 99.0,
     "assists": 0,
-    "headshots": 0,
+    "headshots": 999,
     "headshotRate": 0.0,
     "accuracy": 0.0,
-    "matchesPlayed": 0,
-    "timePlayedHours": 0,
+    "matchesPlayed": 9821,
+    "timePlayedHours": 871,
     "timePlayedMinutes": 0,
-    "currentMMR": 250,
-    "currentRank": "Bronze1"
+    "currentMMR": 4999,
+    "currentRank": "TheLegend"
 }
