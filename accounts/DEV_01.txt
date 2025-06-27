@@ -1,3 +1,5 @@
+BanStatus=("true")
+Banpricol=("[ErkAC] Возможно ты используешь Режим бога если это ошибка то сообщите владелцу! ! bancode: 1019")
 PlayerID=("DEV_01")
 BanStatus=("false")
 BanReason=("")
