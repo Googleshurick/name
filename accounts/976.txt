@@ -1,5 +1,3 @@
-BanStatus=("true")
-Banpricol=("[ErkAC] Попытки изменить исходный код! bancode: 1013")
 PlayerID=("976")
 BanStatus=("false")
 Banpricol=("#2")
