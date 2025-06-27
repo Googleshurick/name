@@ -1,6 +1,6 @@
 PlayerID=("1014")
-BanStatus=("false")
-Banpricol=("")
+BanStatus=("true")
+Banpricol=("Darius = govnocode")
 IP=("z0VSm3rC3gWuRPH67dw/lg==")
 RegisterDate=("2025-06-27 19:13:36")
 PlayerName=("Unknown")
