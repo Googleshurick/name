@@ -1,5 +1,7 @@
 BanStatus=("true")
 Banpricol=("[ErkAC] Возможно ты используешь SilentAim если это ошибка то сообщите владелцу! ! bancode: 1019")
+BanStatus=("true")
+Banpricol=("[ErkAC] Возможно ты используешь SilentAim если это ошибка то сообщите владелцу! ! bancode: 1019")
 PlayerID=("976")
 BanStatus=("false")
 Banpricol=("#2")
