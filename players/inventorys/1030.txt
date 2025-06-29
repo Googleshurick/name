@@ -1,2 +1,2 @@
-InventorySkins=("M9Bayonet_GragonGlass,AKR12_Carving,AKR_DigitalBurst,AWM_heavenlygrin,deagle_crystaldarkness,DJTrippleFlamboy,en_P,FabM_ThiefOfTheChristmas,FnFal_Scaleskitter,G22_Nest,Gloves_DragonGlass,KnifeButterfly_ColdFlam,KnifeKarambit_ColdFlame,M16_Facet,M40_Constellations,M4A1_Paladin,MP7_Blizzard")
-Gold=("50000")
+InventorySkins=("M9Bayonet_GragonGlass,AKR12_Carving,AKR_DigitalBurst,AWM_heavenlygrin,deagle_crystaldarkness,DJTrippleFlamboy,en_P,FabM_ThiefOfTheChristmas,FnFal_Scaleskitter,G22_Nest,Gloves_DragonGlass,KnifeButterfly_ColdFlam,KnifeKarambit_ColdFlame,M16_Facet,M40_Constellations,M4A1_Paladin,MP7_Blizzard,P350_4Years,USP_Geometric")
+Gold=("10000")
