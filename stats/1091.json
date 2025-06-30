@@ -1,7 +1,7 @@
 {
-    "kills": 2,
-    "deaths": 14,
-    "kd": 0.1428571492433548,
+    "kills": 10,
+    "deaths": 17,
+    "kd": 0.5882353186607361,
     "assists": 0,
     "headshots": 0,
     "headshotRate": 0.0,
@@ -9,6 +9,6 @@
     "matchesPlayed": 3,
     "timePlayedHours": 0,
     "timePlayedMinutes": 0,
-    "currentMMR": 357,
-    "currentRank": "Bronze2"
+    "currentMMR": 407,
+    "currentRank": "Bronze3"
 }
