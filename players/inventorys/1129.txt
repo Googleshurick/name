@@ -1,2 +1,2 @@
-InventorySkins=("M9Bayonet_GragonGlass,AKR_DigitalBurst,AWM_SportV2,DaggerKnife_Harmony,Feed,Feed,Feed,Feed,Gloves_Gambit,glovesgeometric,KnifeButterfly_Ripple,KnifeSting_ArcaneSurge,M4_Necromancer,Medal_FrostyChaosDiamond,deagle_aureate,USP_Genesis,VAL_Orbit,KnifeBayonet_Frozen")
-Gold=("30000")
+InventorySkins=("M9Bayonet_GragonGlass,AKR_DigitalBurst,AWM_SportV2,DaggerKnife_Harmony,Feed,Feed,Feed,Feed,Gloves_Gambit,glovesgeometric,KnifeButterfly_Ripple,KnifeSting_ArcaneSurge,M4_Necromancer,Medal_FrostyChaosDiamond,deagle_aureate,USP_Genesis,VAL_Orbit,KnifeBayonet_Frozen,Karambit_Scratch")
+Gold=("10000")
