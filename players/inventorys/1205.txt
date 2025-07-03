@@ -1,2 +1,2 @@
-InventorySkins=("M9Bayonet_GragonGlass,AKR12_Geometric,AKR_GoldenDevil,AWM_heavenlygrin,Butterfly_Swamp,deagle_crystaldarkness,fiveseven_holidayofevil,Famas_Fury,FnFal_Leather,G22_Inferno,Gloves_Gambit,M16_Bigfoot,M40_Constellations,m4_ghostwhisper,Medal_FrostyChaosPlatinum,P350_TagKing")
-Gold=("70000")
+InventorySkins=("M9Bayonet_GragonGlass,AKR12_Geometric,AKR_GoldenDevil,AWM_heavenlygrin,Butterfly_Swamp,deagle_crystaldarkness,fiveseven_holidayofevil,Famas_Fury,FnFal_Leather,G22_Inferno,Gloves_Gambit,M16_Bigfoot,M40_Constellations,m4_ghostwhisper,Medal_FrostyChaosPlatinum,P350_TagKing,val_pinkdevil,Sting_RedBlade")
+Gold=("30000")
