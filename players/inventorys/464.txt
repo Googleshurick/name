@@ -1,2 +1,2 @@
-InventorySkins=("M9Bayonet_GragonGlass,AKR12_Emberbird,AKR_Carbon,AMW_2YearsRed,deagle_aureate,DesertEagle_Gambit,Fabm_Boom,FAMAS_SnowStorm,FiveSeven_Poison,FnFal_Leather,G22_SteelGrip,Gloves_Ravage,M110_Harbinger,M16_Sharpshooter,M40_Monster,M4A1_Impact,MAC10_MeltAway,VAL_Orbit,MAC10_RubyShadow,FnFal_Leather,AKR_TreasureHunter,KnifeButterfly_Ripple,KnifeButterfly_ColdFlam,GlovesPun,Gloves_YearOfTheTiger,gloves_pinkfear,Butterfly_Gold,Berettas_Damascus,FiveSeven_Venom,M4_Sunset,MP7_Blizzard,USP_MirageMenace")
-Gold=("159000,7")
+InventorySkins=("M9Bayonet_GragonGlass")
+Gold=("20000")
