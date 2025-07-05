@@ -1,3 +1,5 @@
+BanStatus=("true")
+Banpricol=("Standoff")
 PlayerID=("1332")
 BanStatus=("false")
 Banpricol=("")
