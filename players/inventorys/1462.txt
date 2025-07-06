@@ -1,2 +1,2 @@
 InventorySkins=("M9Bayonet_GragonGlass,AKR12_Geometric,AKR_LouisVuitton,AWM_LouisVuitton,Butterfly_Gambit,DaggerKnife_Harmony,Deagle_GreenRevenge,DesertEagle_Gambit,Gloves_Gambit,Gloves_WhiteCammo,KnifeBayonet_Frozen,M16_IronWill,M40_SnowDemon,m4_ghostwhisper,M4A1_Impact,M9Bayonet_NewYear,Medal_FrostyChaosPlatinum,P350_ForestSpirit")
-Gold=("30000")
+Gold=("31000")
