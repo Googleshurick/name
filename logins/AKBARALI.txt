@@ -1,0 +1,2 @@
+Password=("wLbWls2OP91dTOcveiPSpA==")
+PlayerId=("1729")
