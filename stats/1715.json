@@ -1,7 +1,7 @@
 {
-    "kills": 0,
-    "deaths": 0,
-    "kd": 0.0,
+    "kills": 1,
+    "deaths": 2,
+    "kd": 0.5,
     "assists": 0,
     "headshots": 0,
     "headshotRate": 0.0,
