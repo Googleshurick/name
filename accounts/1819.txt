@@ -1,6 +1,6 @@
 PlayerID=("1819")
-BanStatus=("false")
-Banpricol=("")
+BanStatus=("true")
+Banpricol=("#3")
 IP=("OKTcBYEgfqoudAzHsG9K0Q==")
 RegisterDate=("2025-07-07 08:58:10")
 PlayerName=("KnightHunter22")
