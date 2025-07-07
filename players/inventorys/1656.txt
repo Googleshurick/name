@@ -1,2 +1,2 @@
-InventorySkins=("M9Bayonet_GragonGlass,Gloves_DragonGlass,M4A1_Impact,USP_2YearsRed,MP7_2YearsRed,Medal_FrostyChaosDiamond,M4_Necromancer,M40_Monster,KnifeButterfly_Ripple,glovesgeometric,Deagle_DragonGlass,AWM_LouisVuitton,AKR_TreasureHunter")
-Gold=("132000")
+InventorySkins=("M9Bayonet_GragonGlass,Gloves_DragonGlass,M4A1_Impact,USP_2YearsRed,MP7_2YearsRed,Medal_FrostyChaosDiamond,M4_Necromancer,M40_Monster,KnifeButterfly_Ripple,glovesgeometric,Deagle_DragonGlass,AWM_LouisVuitton,AKR_TreasureHunter,Gloves_Gambit,Butterfly_Gambit")
+Gold=("92000")
