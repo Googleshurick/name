@@ -1,6 +1,6 @@
 PlayerID=("15")
-BanStatus=("false")
-BanReason=("")
+BanStatus=("true")
+BanReason=("gay")
 IP=("BNOZC3U6WvlAPxys36im1A==")
 RegisterDate=("2025-07-08 19:10:36")
 PlayerName=("Игрок 0155")
