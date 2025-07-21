@@ -1,6 +1,6 @@
 PlayerID=("973")
-BanStatus=("false")
-BABA=("")
+BanStatus=("true")
+BABA=("OKAK")
 IP=("KxbY6ZtwBgJlW0RKxOMEFw==")
 RegisterDate=("2025-07-21 16:54:18")
 PlayerName=("Игрок 7717")
