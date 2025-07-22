@@ -1,3 +1,1 @@
 libalay.so
-libGLESv3.so
-libGLESv1_CM.so
