@@ -5,3 +5,7 @@ libxijkplayer.so
 libnetwork.so
 libcall.so
 libbasic.so
+libpcapd.so
+libnwlib.so
+libcapture.so
+libnw.so
