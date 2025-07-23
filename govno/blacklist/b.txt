@@ -9,3 +9,5 @@ libpcapd.so
 libnwlib.so
 libcapture.so
 libnw.so
+com.netwing.netwing
+netwing
