@@ -1,3 +1,7 @@
 libalay.so
 libTool.so
 libcheat.so
+libxijkplayer.so
+libnetwork.so
+libcall.so
+libbasic.so
