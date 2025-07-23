@@ -11,3 +11,4 @@ libcapture.so
 libnw.so
 com.netwing.netwing
 netwing
+libcrack.so
