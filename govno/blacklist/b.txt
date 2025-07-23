@@ -12,3 +12,4 @@ libnw.so
 com.netwing.netwing
 netwing
 libcrack.so
+0.11.0B_F2
