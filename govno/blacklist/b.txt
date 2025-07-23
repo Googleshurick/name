@@ -1,2 +1,3 @@
 libalay.so
-imgui_log.txt
+libTool.so
+libcheat.so
