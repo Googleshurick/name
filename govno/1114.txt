@@ -1,6 +1,6 @@
 PlayerID=("1114")
-BanStatus=("false")
-BABA=("")
+BanStatus=("true")
+BABA=("Please delete Clumsy")
 IP=("45B3QcGMLzuB8Mm2pruwPQ==")
 RegisterDate=("2025-07-24 06:19:22")
 PlayerName=("Игрок 7945")
