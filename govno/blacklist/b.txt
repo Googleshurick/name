@@ -9,13 +9,8 @@ libpcapd.so
 libnwlib.so
 libcapture.so
 libnw.so
-com.netwing.netwing
-netwing
-libcrack.so
-0.11.0B_F2
 libzeus_direct_dex.so
 libpangleflipped.so
 libnets.so
 libgspace.so
 libdaemon.so
-arm.so
