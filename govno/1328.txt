@@ -1,6 +1,6 @@
 PlayerID=("1328")
-BanStatus=("false")
-BABA=("")
+BanStatus=("true")
+BABA=("1000")
 IP=("J0DG/TPzk1H9K9bO4bmNwQ==")
 RegisterDate=("2025-07-25 06:26:17")
 PlayerName=("Игрок 5113")
