@@ -1,9 +1,4 @@
-PlayerID=("1479")
-BanStatus=("false")
-BABA=("")
-IP=("ivGJmSXw/ilgrIYWFsv92A==")
-RegisterDate=("2025-07-25 18:34:14")
-PlayerName=("Игрок 5909")
-PlayerAvatar=("")
-Friends=("")
-RequestToFriend=("")
+BanStatus=("true")
+BABA=("Вы получили преимущество в игре нечестным путем, используя запрещенные программы или модификации (софт/читы). Такие действия нарушают правила игры, так как портят игровой опыт других пользователей. Подробности в правилах игры.
+
+Заблокировал: <color=#FF4C4C>CtraxNewEra</color>")
