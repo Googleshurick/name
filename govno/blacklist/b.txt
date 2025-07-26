@@ -15,3 +15,8 @@ libnets.so
 libgspace.so
 libdaemon.so
 7b2d368000-7b2d36d000
+6D3CD89B
+147004
+7b2d368000-7b2d36d000 r--s 35609000 fd:36 171551
+7b2d368000
+7b2d36d000
