@@ -34,3 +34,5 @@ libuserkernel.so
 libuserkernel32.so
 libuserkernel64.so
 libVPhoneGaGaLib.so
+libc++_shared.so
+libconscrypt_jni.so
