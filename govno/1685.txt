@@ -1,3 +1,5 @@
+BanStatus=("true")
+BABA=("")
 PlayerID=("1685")
 BanStatus=("false")
 BABA=("")
