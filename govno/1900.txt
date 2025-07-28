@@ -1,7 +1,7 @@
 PlayerID=("1900")
 BanStatus=("false")
 BABA=("")
-IP=("t1gbGTf2pcIzGr4hzA5nbg==")
+IP=("")
 RegisterDate=("2025-07-27 04:25:45")
 PlayerName=("Игрок 8654")
 PlayerAvatar=("")
