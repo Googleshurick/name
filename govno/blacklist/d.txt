@@ -1,1 +1,2 @@
 classes.dex - size - 143.56
+classes.dex - hash - FBEC26A5FA6BE53387A67D011D7ECCB8
