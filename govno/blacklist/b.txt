@@ -1,2 +1,3 @@
 classes.dex - hash - 3D84EABF7182BC2D09454E5CA9F30B8E
 AndroidManifest.xml - size - 4.41
+classes.dex - hash - FBEC26A5FA6BE53387A67D011D7ECCB8
