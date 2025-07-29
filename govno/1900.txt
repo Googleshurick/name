@@ -1,5 +1,3 @@
-BanStatus=("true")
-BABA=("")
 PlayerID=("1900")
 BanStatus=("false")
 BABA=("")
