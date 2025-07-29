@@ -1,5 +1,3 @@
-classes.dex - size - 143.56
-classes.dex - 143.56
 libalay.so
 libTool.so
 libcheat.so
