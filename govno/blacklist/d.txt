@@ -1,1 +1,1 @@
-/classes.dex - size - 143.56
+classes.dex - size - 143.56
