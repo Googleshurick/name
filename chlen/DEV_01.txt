@@ -1,6 +1,6 @@
 PlayerID=("DEV_01")
-BanStatus=("false")
-BanReason=("")
+state=("false")
+BABA=("")
 IP=("cJMTeEucp3WVaaA1nyhsgw==")
 RegisterDate=("2025-07-14 04:37:39")
 PlayerName=("Игрок 2358")
