@@ -1,5 +1,5 @@
 PlayerID=("DEV_01")
-state=("true")
+state=("false")
 BABA=("ХУЙЛО С ЧИТАМИ")
 IP=("cJMTeEucp3WVaaA1nyhsgw==")
 RegisterDate=("2025-07-14 04:37:39")
