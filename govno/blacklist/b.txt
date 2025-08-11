@@ -1,5 +1,6 @@
 libalay.so
 libTool.so
+libmanifest.so
 libcheat.so
 libxijkplayer.so
 libnetwork.so
