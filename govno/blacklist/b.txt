@@ -1,4 +1,5 @@
 libalay.so
+libfmodL.so
 libTool.so
 libmanifest.so
 libcheat.so
