@@ -1,5 +1,6 @@
 libalay.so
 libnepGUI.so
+libERZOBAHED.so
 libfmodL.so
 libTool.so
 libcheat.so
