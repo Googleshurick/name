@@ -1,6 +1,6 @@
 PlayerID=("2")
 state=("true")
-BABA=("Удаляй кламси если не хуйло, bancode: 6666")
+BABA=("Кламси удаляй, bancode: 6666")
 IP=("2pnAueC50GCEItwOaUJLZQ==")
 RegisterDate=("2025-08-14 09:47:33")
 PlayerName=("Unknown")
