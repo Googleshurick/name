@@ -1,2 +1,0 @@
-Password=("uNLoCbRETpZ2rx9R1rD08w==")
-PlayerId=("TIKTOK_01")

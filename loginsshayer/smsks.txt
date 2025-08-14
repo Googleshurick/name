@@ -1,2 +1,0 @@
-Password=("TV/wssQm3KsUulXnd8+GPA==")
-PlayerId=("637")
