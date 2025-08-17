@@ -1,6 +1,6 @@
 PlayerID=("592")
-state=("false")
-BABA=("")
+state=("true")
+BABA=(" Кламси, bancode:ХУЙЛО")
 IP=("RlKR5+Qw8gz4jHue7uhwBA==")
 RegisterDate=("2025-08-15 18:49:54")
 PlayerName=("Unknown")
