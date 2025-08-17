@@ -1,6 +1,6 @@
 PlayerID=("944")
-state=("false")
-BABA=("")
+state=("true")
+BABA=(" WallHack detected!, bancode: ErkAC")
 IP=("fcwQASo7UXKMZLL1+zlAoA==")
 RegisterDate=("2025-08-17 09:12:15")
 PlayerName=("Unknown")
