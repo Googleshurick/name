@@ -1,2 +1,2 @@
 Password=("HIgsMFwkg+gtgClWEVIIfw==")
-PlayerId=("9")
+PlayerId=("TECTEP_01")
