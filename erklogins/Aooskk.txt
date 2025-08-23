@@ -1,0 +1,2 @@
+Password=("DbBy4+CxWSuiGBufGjcRDA==")
+PlayerId=("2688")
