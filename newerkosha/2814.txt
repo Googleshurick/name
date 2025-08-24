@@ -1,3 +1,5 @@
+state=("true")
+BABA=("Ваш аккаунт забанен")
 PlayerID=("2814")
 state=("false")
 BABA=("")
