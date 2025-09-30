@@ -1,3 +1,5 @@
+state=("true")
+BABA=("Do you are seriously?")
 PlayerID=("10000730")
 state=("false")
 BABA=("")
