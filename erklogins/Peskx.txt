@@ -1,0 +1,2 @@
+Password=("M5Tv+Voioue+anzBN+UNfw==")
+PlayerId=("10001205")
