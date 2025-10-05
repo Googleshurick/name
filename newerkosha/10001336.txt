@@ -1,6 +1,6 @@
 PlayerID=("10001336")
-state=("false")
-BABA=("")
+state=("true")
+BABA=("Манипуляций с интернетом такие действия строго запрещены!")
 IP=("5OUNZaQKfgx9jZzM4QNlFw==")
 RegisterDate=("2025-10-05 11:07:10")
 PlayerName=("Unknown")
