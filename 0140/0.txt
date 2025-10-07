@@ -1,6 +1,6 @@
 PlayerID=("0")
-state=("false")
-BABA=("")
+state=("true")
+BABA=("okak")
 IP=("orhn0Z2YRnwIYjIAP/mQBQ==")
 RegisterDate=("2025-10-04 17:20:46")
 PlayerName=("Arrem")
