@@ -1,6 +1,6 @@
 PlayerID=("10000742")
-state=("false")
-BABA=("")
+state=("true")
+BABA=("Кароче гони Деньги за разбан хввххввх лад шутко, neverox1488@gmail.com, Имя аккаунта Never. ПОДРОБНЫЙ АЙПИ АДРЕС МЕГА НЕВЕРОКСАААА ЭТО = ИДИ НАХУЙ")
 IP=("Qx50EYqLGtgwt1iJH0fxJA==")
 RegisterDate=("2025-10-07 18:40:55")
 PlayerName=("Never")
