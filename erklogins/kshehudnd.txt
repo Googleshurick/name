@@ -1,0 +1,2 @@
+Password=("Wfs/5bUv3rLu9gcWduF4uA==")
+PlayerId=("10001689")
