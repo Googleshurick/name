@@ -1,6 +1,6 @@
 PlayerID=("10001371")
-state=("false")
-BABA=("")
+state=("true")
+BABA=("ХУЙХУЦ ПОРНО БЛЯТЬ АЛАЛКЛАОАЛ АЛЛАХ ПРИШЕЛ ЩА ТОБОЙ НАХУЙ ПЛАХОЙ МАЛЧИК БЛЯ")
 IP=("QYtJgYk5s7RpsImGSsWLuA==")
 RegisterDate=("2025-10-19 18:56:22")
 PlayerName=("Unknown")
