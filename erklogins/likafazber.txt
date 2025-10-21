@@ -1,0 +1,2 @@
+Password=("TV+nRuyScgiLVxWNaHD1ug==")
+PlayerId=("10001884")
