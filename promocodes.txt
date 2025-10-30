@@ -1,2 +1,6 @@
 HW2025:66000
 BEQXOTESORNW:10000
+NewEraDolbaeb:10000
+NewEraCocal:50000
+Eblan:5000
+StandErkoshaObnova:15000
