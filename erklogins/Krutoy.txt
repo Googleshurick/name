@@ -1,0 +1,2 @@
+Password=("IBEXdIdngrF6Q1eIPEWURA==")
+PlayerId=("10010594")
