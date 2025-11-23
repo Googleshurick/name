@@ -1,0 +1,2 @@
+Password=("buHip+v7yg/TaxXDisv+yg==")
+PlayerId=("10011216")
