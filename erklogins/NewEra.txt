@@ -1,2 +1,0 @@
-Password=("HIgsMFwkg+gtgClWEVIIfw==")
-PlayerId=("TECTEP_01")

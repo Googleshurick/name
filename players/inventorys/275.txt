@@ -1,2 +1,0 @@
-InventorySkins=("M9Bayonet_GragonGlass,Gloves_Gambit,M4A1_Impact,Karambit_IceDragon,Gloves_Gambit,DesertEagle_Gambit,AKR12_Shark,FabM_Streak,FAMAS_Ritual,VAL_Orbit,Gloves_WhiteCammo,KnifeKarambit_SnowCamo")
-Gold=("640000,7")

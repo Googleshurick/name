@@ -1,2 +1,0 @@
-Password=("BVRP/PhJEtGPP0c/CCrAPg==")
-PlayerId=("694")

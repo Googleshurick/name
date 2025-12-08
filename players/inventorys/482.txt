@@ -1,2 +1,0 @@
-InventorySkins=("M9Bayonet_GragonGlass,AKR12_Emberbird,AKR_TreasureHunter,AWM_HoheiTaisho,Butterfly_DragonGlass,Gloves_DragonGlass")
-Gold=("260000,7")

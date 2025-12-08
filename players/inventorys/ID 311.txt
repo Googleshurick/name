@@ -1,2 +1,0 @@
-InventorySkins=("M9Bayonet_GragonGlass,AKR_Dragon,AKR12_Riot,AWM_SportV2,Famas_Fury,FiveSeven_Venom,FnFal_Phoenix,G22_Nest,m16_seaglint,M4_Sunset,Medal_FrostyChaosDiamond,MP7_Blizzard,P350_ForestSpirit,P90_Samurai,SM1014_FreezingGasp,UMP45_Beast,USP_Geometric,val_pinkdevil,Tec9_New1,SM1014_FreezingGasp,M40_Monster,deagle_aureate,Butterfly_Gold,Butterfly_DragonGlass,Gloves_Tessera,P90_Oracle,VAL_Orbit,FAMAS_Ritual,DesertEagle_Gambit,SM1014_Piranha,AKR12_Shark,Gloves_Ravage")
-Gold=("591000,7")

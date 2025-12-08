@@ -1,2 +1,0 @@
-Password=("YT/T5cxFy2vFFOO6JJ7lNw==")
-PlayerId=("10009789")

@@ -1,2 +1,0 @@
-InventorySkins=("M9Bayonet_GragonGlass,Gloves_DragonGlass,Gloves_Gangster,M9Bayonet_BlueBlood,Gloves_Haunt,M40_New2,M4A1_BubbleGum,MP7_New1,SM1014_Necromancer,P90_Samurai,USP_Genesis,AWM_Genesis,AWM_Nebula,AKR_Dragon,draculacloak,draculacloak,GasMask,GasMask")
-Gold=("20000,69")

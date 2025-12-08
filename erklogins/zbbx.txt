@@ -1,2 +1,0 @@
-Password=("OKpY1MRsCZr3OarjRmeEjw==")
-PlayerId=("2693")

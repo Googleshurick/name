@@ -1,2 +1,0 @@
-Password=("gPi3js/5+8/yabjEBxSctQ==")
-PlayerId=("10004019")

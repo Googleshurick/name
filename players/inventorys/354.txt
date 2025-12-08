@@ -1,2 +1,0 @@
-InventorySkins=("M9Bayonet_GragonGlass,AKR12_Hanami,AKR_IcyLight,AWM_LouisVuitton,DesertEagle_Gambit,Fabm_Boom,Famas_Fury,fiveseven_holidayofevil,FnFal_Leather,G22_Relic,Gloves_Fireborn1,Gloves_Dread,Gloves_Gambit,Gloves_WhiteCammo,Gloves_Ravage,Gloves_Ritual,Gloves_Tessera,KnifeFang_Haunt,M4A1_Impact,VAL_Orbit,FlipKnife_New5")
-Gold=("4000,688")

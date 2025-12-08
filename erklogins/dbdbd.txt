@@ -1,2 +1,0 @@
-Password=("S3+ogLW4yuNB6hHqIUGgkg==")
-PlayerId=("10000351")

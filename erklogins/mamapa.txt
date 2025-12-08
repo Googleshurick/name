@@ -1,2 +1,0 @@
-Password=("pyf/aDNTefTvfR3k1G8EXA==")
-PlayerId=("2327")

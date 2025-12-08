@@ -1,2 +1,0 @@
-Password=("r/eVTE9Ed2aygYNI8bePEQ==")
-PlayerId=("10011260")

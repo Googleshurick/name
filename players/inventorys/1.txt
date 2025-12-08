@@ -1,2 +1,0 @@
-InventorySkins=("AKR12_Riot,M4_Dragon")
-Gold=("9000,69")

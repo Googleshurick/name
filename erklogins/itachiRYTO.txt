@@ -1,2 +1,0 @@
-Password=("DJI+KbvPKPUCAApLzTx06A==")
-PlayerId=("10008864")

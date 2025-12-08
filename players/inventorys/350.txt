@@ -1,2 +1,0 @@
-InventorySkins=("M9Bayonet_GragonGlass,DesertEagle_Gambit,Gloves_WhiteCammo,Gloves_Gambit,KnifeBayonet_Kumo,Butterfly_New1,AMW_New1,AWM_Genesis,AKR_New2,AKR12_Geometric,G22_New1,M16_Wraithwood,M4_Wolf,M4A1_Paladin,P350_Raider,P350_Impact,USP_Geometric,Fabm_Boom,Famas_Monster,FiveSeven_Poison,FlipKnife_New5,FnFal_Phoenix,jKommando_Reaper,Karambit_Scratch,KnifeSting_TemperShades,Kunai_Bone,M110_Flow,M40_Monster,MAC10_RubyShadow,MP5_ProjectZ9,MP7_New1,P90_Samurai,ScorpionKnife_HolidayFrost,SM1014_FreezingGasp,SPAS_Raider,UMP45_Beast")
-Gold=("9000,688")

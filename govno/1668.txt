@@ -1,2 +1,0 @@
-BanStatus=("true")
-BABA=("ErkAC: You Are Using Invisible!")
